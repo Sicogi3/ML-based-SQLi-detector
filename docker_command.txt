@@ -1,0 +1,1 @@
+docker run --rm -it -p 80:80 -v .\logs:/var/log/apache2 vulnerables/web-dvwa
